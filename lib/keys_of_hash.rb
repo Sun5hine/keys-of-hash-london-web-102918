@@ -8,4 +8,3 @@ class Hash
 		}
 		return animals 
 end
-end 
